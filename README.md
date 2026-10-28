@@ -39,4 +39,4 @@
 افتح اللعبة من البرنامج، وفي **TikTok LIVE Studio** أضف «التقاط نافذة» أو مصدر «رابط». وفي **OBS** أضف Browser Source بنفس الرابط.
 
 ---
-<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · مجسمات العروض: التاج الملكي (WirtualneMuzeaMalopolski، CC0)، العملة (alex.yefremov)، الكأس (adeedelmalek3.2)، القلب الياقوتي (Werner291) — CC BY 4.0 · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
+<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>

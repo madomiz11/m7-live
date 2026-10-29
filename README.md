@@ -26,6 +26,7 @@
 | | اللعبة | الفكرة |
 |---|---|---|
 | 🔤 | **حروف** | الكاوبوي يصيد اللاعب بالحبل، واللي يغلط يخسر بحركة تضحك |
+| 👹 | **زعيم البث** | كل المتابعين فرسان ضد وحش عملاق! |
 | 🪑 | **الكراسي الموسيقية** | توقف الموسيقى؟ اكتب رقم الكرسي بسرعة! |
 | 🏰 | **حصن الصمود** | احموا الحصن من الوحوش أو خرّبوا عليه |
 | 🏁 | **سباق المتابعين** | اللايكات والهدايا تسرّعك للخط |
@@ -40,4 +41,4 @@
 افتح اللعبة من البرنامج، وفي **TikTok LIVE Studio** أضف «التقاط نافذة» أو مصدر «رابط». وفي **OBS** أضف Browser Source بنفس الرابط.
 
 ---
-<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
+<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>

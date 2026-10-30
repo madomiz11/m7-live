@@ -58,11 +58,14 @@
 | 🏁 | **سباق المتابعين** | اللايكات والهدايا تسرّع متسابقك للخط |
 | 🪢 | **حرب الفريقين** | فريقين يسحبون الحبل بالهدايا واللايكات |
 | ⚔️ | **ساحة القتال** | كل متابع مقاتل بصورته، وآخر واحد يبقى هو البطل |
+| 🐉 | **حلبة الأساطير** | كل داعم فارس 3D، والهدايا قوى، والفائز يطير على التنين (تحميل اختياري) |
 
-### 🔥 قريباً: حلبة الأساطير
+### 🔥 جديد: حلبة الأساطير
 <img src="media/legends.jpg" width="620" alt="حلبة الأساطير">
 
 معركة 3D احترافية مصنوعة بمحرك **Godot**: كل داعم فارس، والحلبة تضيق بحلقة نار، وآخر فارس يطير على التنين ويصير له **تمثال ذهبي**.
+
+> 📥 تحميلها **اختياري** من «متجر الألعاب» داخل البرنامج (حوالي 121 ميقا)، وفيها زر **إصلاح** لو صار فيها شي، وزر **حذف** متى ما بغيت.
 
 ## ✨ مميزات البرنامج
 
@@ -175,7 +178,7 @@
 <details>
 <summary><sub>الحقوق والمجسمات</sub></summary>
 
-<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · محرك 3D: three.js (MIT) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
+<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
 </details>
 
 </div>

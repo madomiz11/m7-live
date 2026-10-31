@@ -19,7 +19,7 @@
 
 ## 🎮 الألعاب
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/card-legends.webp" width="100%" alt="حلبة الأساطير" title="⚔️ حلبة الأساطير — معركة 3D بالدعم، وآخر فارس يركب التنين (👑 أسطورة البث)"></a>
+<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/card-legends.webp" width="100%" alt="حلبة الأساطير" title="⚔️ حلبة الأساطير — معركة 3D بالدعم، وآخر فارس يركب التنين ويجلس على العرش (👑 أسطورة البث)"></a>
 
 <p align="center">
 <img src="media/card-boss.webp" width="49%" alt="زعيم البث" title="👹 زعيم البث — كل المتابعين ضد وحش 3D عملاق (👑 أسطورة البث)">
@@ -29,7 +29,7 @@
 <p align="center">
 <img src="media/card-bomb.webp" width="24%" alt="القنبلة" title="💣 القنبلة — علّق بسرعة ومرّرها قبل ما تنفجر (مجانية)">
 <img src="media/card-fortress.webp" width="24%" alt="حصن الصمود" title="🏰 حصن الصمود — احموا الحصن من الوحوش (⚔️ فارس البث)">
-<img src="media/card-hidden.webp" width="24%" alt="وش المخفي" title="🔍 وش المخفي؟ — أول واحد يعرف المجسم يفوز (⚔️ فارس البث)">
+<img src="media/card-hidden.webp" width="24%" alt="وش المخفي" title="🔍 وش المخفي؟ — بزل: الصورة تكتمل مربع مربع وأول واحد يعرفها يفوز (⚔️ فارس البث)">
 <img src="media/card-minority-win.webp" width="24%" alt="لحظة الفوز" title="🏆 كأس 3D ذهبي لكل بطل">
 </p>
 
@@ -45,13 +45,13 @@
 | 🔀 | **رتّب الحروف** | أول واحد يكتب الكلمة الصح يفوز | ⚔️ |
 | 🪑 | **الكراسي الموسيقية** | توقف الموسيقى؟ اكتب رقم الكرسي بسرعة | ⚔️ |
 | 🧠 | **عكس الأغلبية** | اللي مع الأغلبية يطيحون | ⚔️ |
-| 🔍 | **وش المخفي؟** | مجسم 3D ينكشف شوي شوي | ⚔️ |
+| 🔍 | **وش المخفي؟** | بزل: الصورة تكتمل مربع مربع | ⚔️ |
 | ⚔️ | **ساحة القتال** | آخر واحد يبقى بالساحة هو البطل | ⚔️ |
 | 🏰 | **حصن الصمود** | احموا الحصن، أو خرّبوه! | ⚔️ |
 | 👑 | **عرش أكبر داعم** | الملك يحكم لين أحد يطيّحه بهدية أكبر | ⚔️ |
 | 🪢 | **حرب الفريقين** | الهدايا واللايكات تسحب الحبل | ⚔️ |
 | 👹 | **زعيم البث** | كل المتابعين ضد وحش 3D عملاق | 👑 |
-| ⚔️ | **حلبة الأساطير** | معركة 3D، وآخر فارس يصير أسطورة | 👑 |
+| ⚔️ | **حلبة الأساطير** | معركة 3D، وآخر فارس يجلس على العرش | 👑 |
 
 🆓 مجانية · ⚔️ فارس البث · 👑 أسطورة البث
 </details>
@@ -125,7 +125,7 @@
 <details>
 <summary><sub>الحقوق والمجسمات</sub></summary>
 
-<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
+<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأصوات: Kenney وOpenGameArt (CC0) · هتاف الجمهور: Gregor Quendel (CC BY 4.0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
 </details>
 
 </div>

@@ -1,14 +1,16 @@
 <div align="center">
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/hero.webp" width="100%" alt="M7 Live — ألعاب 3D تفاعلية لبث تيك توك" title="M7 Live — ألعاب 3D تفاعلية لبثّك في تيك توك لايف"></a>
+<a href="https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe"><img src="media/hero.webp" width="100%" alt="M7 Live — ألعاب 3D تفاعلية لبث تيك توك" title="M7 Live — ألعاب 3D تفاعلية لبثّك في تيك توك لايف"></a>
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/download.webp" width="380" alt="حمّل M7 Live" title="اضغط وحمّل آخر نسخة (ويندوز 10 و 11)"></a>
+<a href="https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe"><img src="media/download.webp" width="380" alt="حمّل M7 Live" title="اضغط ويتحمّل آخر نسخة على طول (ويندوز 10 و 11)"></a>
 
-[![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok)
+<sub>⬇️ <b>تحميل مباشر</b> لآخر نسخة &nbsp;•&nbsp; ويندوز 10 و 11 (64-bit) &nbsp;•&nbsp; البرنامج يتحدث لحاله بعدها</sub>
+
+[![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok)
 
 <img src="media/stats.webp" width="100%" alt="16 لعبة تفاعلية، 3 ألعاب ضخمة منفصلة، 4 خطوات وتبدأ بثك، وتحكم بكل هدية" title="M7 Live بالأرقام">
 
-<b><a href="#what">🎯 وش هو</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a></b>
+<b><a href="#what">🎯 وش هو</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
 
 </div>
 
@@ -24,19 +26,46 @@
 
 > 💡 تبي تجرب قبل البث؟ شغّل **وضع التجربة** من البرنامج، ويطلع لك متابعين وهدايا وهمية.
 
+<table>
+<tr>
+<td align="center" width="25%">🔒<br><b>يوزرك بس</b><br><sub>ما يطلب كلمة سر تيك توك</sub></td>
+<td align="center" width="25%">🧪<br><b>وضع التجربة</b><br><sub>جرّب كل لعبة قبل لا تبث</sub></td>
+<td align="center" width="25%">🔄<br><b>يتحدث لحاله</b><br><sub>كل جديد يوصلك داخل البرنامج</sub></td>
+<td align="center" width="25%">🎛️<br><b>أنت تتحكم</b><br><sub>كل هدية تسوي اللي تختاره</sub></td>
+</tr>
+</table>
+
 <a name="games"></a>
 
 <img src="media/title-games.webp" width="100%" alt="الألعاب">
 
 ### 🔥 الجديد
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/card-silence.webp" width="100%" alt="مدينة الصمت" title="🌑 مدينة الصمت — رعب واقعي في حي مهجور، والمشاهدين هم اللي يخوفونك (👑 أسطورة البث)"></a>
+<a href="#download"><img src="media/card-silence.webp" width="100%" alt="مدينة الصمت" title="🌑 مدينة الصمت — رعب واقعي في حي مهجور، والمشاهدين هم اللي يخوفونك (👑 أسطورة البث)"></a>
+
+<details open>
+<summary><b>🆕 جديد مدينة الصمت 1.2 — شوف الصور</b></summary>
+
+<table>
+<tr>
+<td width="50%"><img src="media/silence-5.jpg" width="100%" alt="شات المتابعين على التلفزيون" title="اضغط E على التلفزيون وتقرّب الكاميرا: الشات يطلع مثل البث"><br><b>📺 شات المتابعين على التلفزيونات</b><br><sub>اضغط E وتقرّب على الشاشة… وأحياناً يكتب لك شي مو من المتابعين</sub></td>
+<td width="50%"><img src="media/silence-6.jpg" width="100%" alt="مدرسة الحي" title="مدرسة الحي الابتدائية من الشارع"><br><b>🏫 مدرسة الحي</b><br><sub>لوحتها الخضرا الكبيرة، السور الملوّن، و«العلم نور» على الجدار</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="media/silence-7.jpg" width="100%" alt="مستوصف الحي" title="مستوصف الحي وصليبه الأخضر"><br><b>🏥 مستوصف الحي</b><br><sub>صليب أخضر يضوي في الظلام، وكرسي متحرك متروك عند الجدار</sub></td>
+<td width="50%"><img src="media/silence-8.jpg" width="100%" alt="سماء الليل" title="قمر شاحب ورا غيوم ثقيلة"><br><b>🌫️ سماء ليل حقيقية</b><br><sub>غيوم ثقيلة تمشي وقمر شاحب، وتتلوّن مع كل فصل وتضوي مع البرق</sub></td>
+</tr>
+</table>
+
+> 👹 **كل وحش له حركته:** الأبيض يوقف إذا طالعته ويلف راسه عليك، الهيكل يتشنج ويركض فجأة، الضخم يعرج ويشم الهوا ويهجم، ووحش التلفزيون يقطّع مثل شريط خربان.
+
+</details>
 
 ### 👑 الألعاب الضخمة
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/card-legends.webp" width="100%" alt="حلبة الأساطير" title="⚔️ حلبة الأساطير — معركة 3D بالدعم، وآخر فارس يركب التنين ويجلس على العرش (👑 أسطورة البث)"></a>
+<a href="#download"><img src="media/card-legends.webp" width="100%" alt="حلبة الأساطير" title="⚔️ حلبة الأساطير — معركة 3D بالدعم، وآخر فارس يركب التنين ويجلس على العرش (👑 أسطورة البث)"></a>
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/card-tayeh.webp" width="100%" alt="طيّحه!" title="🌊 طيّحه! — منصة فوق البحر: دز الكل، وآخر واحد واقف ياخذ التاج (👑 أسطورة البث)"></a>
+<a href="#download"><img src="media/card-tayeh.webp" width="100%" alt="طيّحه!" title="🌊 طيّحه! — منصة فوق البحر: دز الكل، وآخر واحد واقف ياخذ التاج (👑 أسطورة البث)"></a>
 
 ### 🎮 ألعاب البث
 
@@ -90,6 +119,17 @@
 <img src="media/title-features.webp" width="100%" alt="مميزات البرنامج">
 
 <img src="media/features.webp" width="100%" alt="المميزات: تحكم كامل بالهدايا، نقاط ومستويات، عروض للبث، متجر النقاط والأصوات، جهاز ثاني، تحديث تلقائي" title="كل اللي تحتاجه لبث تفاعلي في برنامج واحد">
+
+<a name="req"></a>
+
+<img src="media/title-req.webp" width="100%" alt="متطلبات التشغيل">
+
+| | ألعاب البث | الألعاب الضخمة |
+|---|---|---|
+| **النظام** | ويندوز 10 أو 11 (64-bit) | ويندوز 10 أو 11 (64-bit) |
+| **كرت الشاشة** | أي كرت يشغّل البث | يدعم DirectX 12 (مدينة الصمت وطيّحه!) |
+| **المساحة** | حجم البرنامج بس | مدينة الصمت تاخذ حوالي 2.6 جيجا |
+| **النت** | نت البث العادي | نت سريع للتحميل أول مرة |
 
 <a name="faq"></a>
 
@@ -147,7 +187,7 @@
 <summary><b>🌑 كيف أشغّل مدينة الصمت؟</b></summary>
 
 1. لازم تكون مشترك في **أسطورة البث**.
-2. افتح اللعبة من البرنامج واضغط تحميل (حوالي 1.3 جيجا، مرة وحدة بس).
+2. افتح اللعبة من البرنامج واضغط تحميل (حجمها كبير، مرة وحدة بس، وبعدها تتحدث لحالها).
 3. حدد من **القواعد** وش الهدية اللي تسوي كل فجعة، وابدأ الليلة.
 
 اللعبة تحفظ تقدمك، وتقدر تكمل الليلة من «أكمل الليلة».
@@ -159,7 +199,11 @@
 البرنامج يتحدث لحاله. لما تنزل نسخة جديدة يطلع لك تنبيه داخله، اضغط «حدّث» وخلاص.
 </details>
 
-<p align="center"><a href="https://github.com/madomiz11/m7-live/releases/latest"><img src="media/download.webp" width="380" alt="حمّل M7 Live" title="اضغط وحمّل آخر نسخة (ويندوز 10 و 11)"></a></p>
+<a name="download"></a>
+
+<p align="center"><a href="https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe"><img src="media/download.webp" width="380" alt="حمّل M7 Live" title="اضغط ويتحمّل آخر نسخة على طول (ويندوز 10 و 11)"></a></p>
+
+<p align="center"><sub>الملف يتحمّل على طول. تبي تقرا وش الجديد؟ <a href="https://github.com/madomiz11/m7-live/releases/latest">ملاحظات آخر تحديث</a></sub></p>
 
 ---
 

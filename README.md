@@ -81,6 +81,13 @@
 <img src="media/card-minority-win.webp" width="24%" alt="لحظة الفوز" title="🏆 كأس 3D ذهبي لكل بطل">
 </p>
 
+### 🧩 كل الألعاب بلمحة
+
+<table>
+<tr><td align="center" width="12.5%"><img src="media/icon-silence.webp" width="88" alt="مدينة الصمت" title="مدينة الصمت"><br><sub><b>مدينة الصمت</b></sub></td><td align="center" width="12.5%"><img src="media/icon-tayeh.webp" width="88" alt="طيّحه!" title="طيّحه!"><br><sub><b>طيّحه!</b></sub></td><td align="center" width="12.5%"><img src="media/icon-legends.webp" width="88" alt="حلبة الأساطير" title="حلبة الأساطير"><br><sub><b>حلبة الأساطير</b></sub></td><td align="center" width="12.5%"><img src="media/icon-boss.webp" width="88" alt="زعيم البث" title="زعيم البث"><br><sub><b>زعيم البث</b></sub></td><td align="center" width="12.5%"><img src="media/icon-quiz.webp" width="88" alt="سؤال وجواب" title="سؤال وجواب"><br><sub><b>سؤال وجواب</b></sub></td><td align="center" width="12.5%"><img src="media/icon-bomb.webp" width="88" alt="القنبلة" title="القنبلة"><br><sub><b>القنبلة</b></sub></td><td align="center" width="12.5%"><img src="media/icon-race.webp" width="88" alt="سباق المتابعين" title="سباق المتابعين"><br><sub><b>سباق المتابعين</b></sub></td><td align="center" width="12.5%"><img src="media/icon-letters.webp" width="88" alt="حروف" title="حروف"><br><sub><b>حروف</b></sub></td></tr>
+<tr><td align="center" width="12.5%"><img src="media/icon-scramble.webp" width="88" alt="رتّب الحروف" title="رتّب الحروف"><br><sub><b>رتّب الحروف</b></sub></td><td align="center" width="12.5%"><img src="media/icon-chairs.webp" width="88" alt="الكراسي الموسيقية" title="الكراسي الموسيقية"><br><sub><b>الكراسي الموسيقية</b></sub></td><td align="center" width="12.5%"><img src="media/icon-minority.webp" width="88" alt="عكس الأغلبية" title="عكس الأغلبية"><br><sub><b>عكس الأغلبية</b></sub></td><td align="center" width="12.5%"><img src="media/icon-hidden.webp" width="88" alt="وش المخفي؟" title="وش المخفي؟"><br><sub><b>وش المخفي؟</b></sub></td><td align="center" width="12.5%"><img src="media/icon-arena.webp" width="88" alt="ساحة القتال" title="ساحة القتال"><br><sub><b>ساحة القتال</b></sub></td><td align="center" width="12.5%"><img src="media/icon-fortress.webp" width="88" alt="حصن الصمود" title="حصن الصمود"><br><sub><b>حصن الصمود</b></sub></td><td align="center" width="12.5%"><img src="media/icon-throne.webp" width="88" alt="عرش أكبر داعم" title="عرش أكبر داعم"><br><sub><b>عرش أكبر داعم</b></sub></td><td align="center" width="12.5%"><img src="media/icon-tug.webp" width="88" alt="حرب الفريقين" title="حرب الفريقين"><br><sub><b>حرب الفريقين</b></sub></td></tr>
+</table>
+
 <details>
 <summary><b>📜 كل الألعاب (16 لعبة) — اضغط هنا</b></summary>
 

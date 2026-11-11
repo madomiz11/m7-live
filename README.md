@@ -8,7 +8,7 @@
 
 [![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok)
 
-<img src="media/stats.webp" width="100%" alt="16 لعبة تفاعلية، 3 ألعاب ضخمة منفصلة، 4 خطوات وتبدأ بثك، وتحكم بكل هدية" title="M7 Live بالأرقام">
+<img src="media/stats.webp" width="100%" alt="17 لعبة تفاعلية، 3 ألعاب ضخمة منفصلة، 4 خطوات وتبدأ بثك، وتحكم بكل هدية" title="M7 Live بالأرقام">
 
 <b><a href="#what">🎯 وش هو</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
 
@@ -41,9 +41,31 @@
 
 ### 🔥 الجديد
 
-<a href="#download"><img src="media/card-silence.webp" width="100%" alt="مدينة الصمت" title="🌑 مدينة الصمت — رعب واقعي في حي مهجور، والمشاهدين هم اللي يخوفونك (👑 أسطورة البث)"></a>
+<a href="#download"><img src="media/card-glassbridge.webp" width="100%" alt="الجسر الزجاجي" title="🌉 الجسر الزجاجي — لعبة روبلوكس للبث: المتابعين يعبرون جسر زجاج من التعليقات (⚔️ فارس البث)"></a>
 
 <details open>
+<summary><b>🆕 الجسر الزجاجي — لعبة فرجة في بثك على روبلوكس</b></summary>
+
+<table>
+<tr>
+<td width="50%"><img src="media/bridge-1.jpg" width="100%" alt="الجسر الزجاجي" title="ليلة حفل: سما وردي وكشافات ذهبية وزجاج يلمع"><br><b>🌉 جسر زجاج فوق مدينة خليجية</b><br><sub>كل صف فيه زجاجتين: وحدة تتحمّل ووحدة تنكسر</sub></td>
+<td width="50%"><img src="media/bridge-2.jpg" width="100%" alt="صناديق الحظ" title="كل متابع ياخذ صندوق، والصندوق يطلع رقمه بالدور"><br><b>🎁 صناديق الحظ</b><br><sub>المتابع يكتب «العب» فتنزل شخصية باسمه، والصندوق يطلع رقمه</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="media/bridge-3.jpg" width="100%" alt="دور المتابع" title="صاحب الدور يكتب يمين أو يسار"><br><b>⬅️ يمين أو يسار ➡️</b><br><sub>صاحب الدور يكتب في التعليقات، والكاميرا تتابعه</sub></td>
+<td width="50%"><img src="media/bridge-4.jpg" width="100%" alt="منصة الفايزين" title="الفايزين على المنصة بكونفيتي ذهبي"><br><b>🏆 منصة الأبطال</b><br><sub>الفايز ياخذ المركز الأول بومضة ذهبية وكونفيتي</sub></td>
+</tr>
+</table>
+
+> 🎮 **هدايا البث تغيّر اللعب:** تكشف الزجاج الآمن، تعطي مظلة، تهز الجسر، تجيب رياح أو ضباب، أو تكسر الزجاج. وأنت تختار وش تسوي كل هدية.
+>
+> 🔒 لما تربطها ببثك تنتقل لغرفة خاصة فيك، وما أحد يدخل ويخرب. تحتاج حساب روبلوكس على جهازك.
+
+</details>
+
+<a href="#download"><img src="media/card-silence.webp" width="100%" alt="مدينة الصمت" title="🌑 مدينة الصمت — رعب واقعي في حي مهجور، والمشاهدين هم اللي يخوفونك (👑 أسطورة البث)"></a>
+
+<details>
 <summary><b>🆕 جديد مدينة الصمت 1.2 — شوف الصور</b></summary>
 
 <table>

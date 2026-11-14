@@ -8,9 +8,9 @@
 
 [![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok)
 
-<img src="media/stats.webp" width="100%" alt="17 لعبة تفاعلية، 3 ألعاب ضخمة منفصلة، 4 خطوات وتبدأ بثك، وتحكم بكل هدية" title="M7 Live بالأرقام">
+<img src="media/stats.webp" width="100%" alt="18 لعبة تفاعلية، 4 ألعاب ضخمة منفصلة، 4 خطوات وتبدأ بثك، وتحكم بكل هدية" title="M7 Live بالأرقام">
 
-<b><a href="#what">🎯 وش هو</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
+<b><a href="#what">🎯 وش هو</a> &nbsp;•&nbsp; <a href="#new">🔥 الجديد</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#overlays">👑 العروض</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
 
 </div>
 
@@ -24,27 +24,47 @@
 
 <img src="media/steps.webp" width="100%" alt="ابدأ في 4 خطوات: حمّل، اكتب يوزرك، اختر لعبة، ابدأ البث" title="من التحميل للبث في 4 خطوات">
 
-> 💡 تبي تجرب قبل البث؟ شغّل **وضع التجربة** من البرنامج، ويطلع لك متابعين وهدايا وهمية.
-
 <table>
 <tr>
 <td align="center" width="25%">🔒<br><b>يوزرك بس</b><br><sub>ما يطلب كلمة سر تيك توك</sub></td>
-<td align="center" width="25%">🧪<br><b>وضع التجربة</b><br><sub>جرّب كل لعبة قبل لا تبث</sub></td>
+<td align="center" width="25%">🧪<br><b>وضع التجربة</b><br><sub>متابعين وهدايا وهمية قبل البث</sub></td>
 <td align="center" width="25%">🔄<br><b>يتحدث لحاله</b><br><sub>كل جديد يوصلك داخل البرنامج</sub></td>
 <td align="center" width="25%">🎛️<br><b>أنت تتحكم</b><br><sub>كل هدية تسوي اللي تختاره</sub></td>
 </tr>
 </table>
 
-<a name="games"></a>
+<a name="new"></a>
 
 <img src="media/title-games.webp" width="100%" alt="الألعاب">
 
 ### 🔥 الجديد
 
-<a href="#download"><img src="media/card-glassbridge.webp" width="100%" alt="الجسر الزجاجي" title="🌉 الجسر الزجاجي — لعبة روبلوكس للبث: المتابعين يعبرون جسر زجاج من التعليقات (⚔️ فارس البث)"></a>
+<a href="#download"><img src="media/card-camel.webp" width="100%" alt="سباق الهجن" title="🐪 سباق الهجن — بطولة هجن واقعية: كل متابع له هجين، أشواط ونهائي، والبطل يتتوّج (👑 أسطورة البث)"></a>
 
 <details open>
-<summary><b>🆕 الجسر الزجاجي — لعبة فرجة في بثك على روبلوكس</b></summary>
+<summary><b>🆕 سباق الهجن — بطولة هجن حقيقية في بثك</b></summary>
+
+<table>
+<tr>
+<td width="50%"><img src="media/camel-1.jpg" width="100%" alt="الهجن في المضمار" title="عشرين هجين رايحين للقوس، وسيارات الملّاك على الطريق جنب المضمار"><br><b>🏜️ مضمار حقيقي وقت الغروب</b><br><sub>كل متابع يسجّل ياخذ هجين، لين 20 هجين في الشوط</sub></td>
+<td width="50%"><img src="media/camel-2.jpg" width="100%" alt="السباق" title="الترتيب فوق يسار، والهدايا فوق يمين، وصورة كل متابع فوق هجينه"><br><b>🎁 الهدايا تحرّك السباق</b><br><sub>الترتيب مباشر، وكل دفعة قوية تطلع باسم صاحبها</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="media/camel-3.jpg" width="100%" alt="ملّاك الهجن" title="الملّاك في السيارات يشجّعون وينادون اسم اللي قدّام"><br><b>📣 «كفو كفو!»</b><br><sub>الملّاك بالغترة والعقال يشجّعون من السيارات، وينادون اسم المتصدّر</sub></td>
+<td width="50%"><img src="media/camel-4.jpg" width="100%" alt="تتويج البطل" title="التاج ينزل على صورة البطل، والسيف الذهبي وراه"><br><b>👑 تتويج البطل</b><br><sub>زعفران على راس الهجين، والتاج والسيف الذهبي لصاحبه</sub></td>
+</tr>
+</table>
+
+> 🏆 **بطولة كاملة:** التسجيل يفتح مرة وحدة، وبعدها قرعة تقسّم المسجّلين على الأشواط بالتساوي، وأول 3 من كل شوط يروحون للنهائي. لين 5 أشواط، يعني 100 مشارك.
+>
+> 💧 **الهجن تتعب:** حلقة طاقة حول صورة كل متابع، ولما يتعب تطلع قطرة ماي. «شربة ماي» ترجّع طاقته، والهدايا تعطيه دفعة.
+
+</details>
+
+<a href="#download"><img src="media/card-glassbridge.webp" width="100%" alt="الجسر الزجاجي" title="🌉 الجسر الزجاجي — لعبة روبلوكس للبث: المتابعين يعبرون جسر زجاج من التعليقات (⚔️ فارس البث)"></a>
+
+<details>
+<summary><b>🌉 الجسر الزجاجي — لعبة فرجة في بثك على روبلوكس</b></summary>
 
 <table>
 <tr>
@@ -63,10 +83,14 @@
 
 </details>
 
+<a name="games"></a>
+
+### 👑 الألعاب الضخمة <sub>— تنفتح كبرنامج لحالها</sub>
+
 <a href="#download"><img src="media/card-silence.webp" width="100%" alt="مدينة الصمت" title="🌑 مدينة الصمت — رعب واقعي في حي مهجور، والمشاهدين هم اللي يخوفونك (👑 أسطورة البث)"></a>
 
 <details>
-<summary><b>🆕 جديد مدينة الصمت 1.2 — شوف الصور</b></summary>
+<summary><b>🌑 مدينة الصمت — شوف الصور</b></summary>
 
 <table>
 <tr>
@@ -83,13 +107,11 @@
 
 </details>
 
-### 👑 الألعاب الضخمة
-
 <a href="#download"><img src="media/card-legends.webp" width="100%" alt="حلبة الأساطير" title="⚔️ حلبة الأساطير — معركة 3D بالدعم، وآخر فارس يركب التنين ويجلس على العرش (👑 أسطورة البث)"></a>
 
 <a href="#download"><img src="media/card-tayeh.webp" width="100%" alt="طيّحه!" title="🌊 طيّحه! — منصة فوق البحر: دز الكل، وآخر واحد واقف ياخذ التاج (👑 أسطورة البث)"></a>
 
-### 🎮 ألعاب البث
+### 🎮 ألعاب البث <sub>— داخل البرنامج</sub>
 
 <p align="center">
 <img src="media/card-boss.webp" width="49%" alt="زعيم البث" title="👹 زعيم البث — كل المتابعين ضد وحش 3D عملاق (👑 أسطورة البث)">
@@ -106,16 +128,43 @@
 ### 🧩 كل الألعاب بلمحة
 
 <table>
-<tr><td align="center" width="12.5%"><img src="media/icon-silence.webp" width="88" alt="مدينة الصمت" title="مدينة الصمت"><br><sub><b>مدينة الصمت</b></sub></td><td align="center" width="12.5%"><img src="media/icon-tayeh.webp" width="88" alt="طيّحه!" title="طيّحه!"><br><sub><b>طيّحه!</b></sub></td><td align="center" width="12.5%"><img src="media/icon-legends.webp" width="88" alt="حلبة الأساطير" title="حلبة الأساطير"><br><sub><b>حلبة الأساطير</b></sub></td><td align="center" width="12.5%"><img src="media/icon-boss.webp" width="88" alt="زعيم البث" title="زعيم البث"><br><sub><b>زعيم البث</b></sub></td><td align="center" width="12.5%"><img src="media/icon-quiz.webp" width="88" alt="سؤال وجواب" title="سؤال وجواب"><br><sub><b>سؤال وجواب</b></sub></td><td align="center" width="12.5%"><img src="media/icon-bomb.webp" width="88" alt="القنبلة" title="القنبلة"><br><sub><b>القنبلة</b></sub></td><td align="center" width="12.5%"><img src="media/icon-race.webp" width="88" alt="سباق المتابعين" title="سباق المتابعين"><br><sub><b>سباق المتابعين</b></sub></td><td align="center" width="12.5%"><img src="media/icon-letters.webp" width="88" alt="حروف" title="حروف"><br><sub><b>حروف</b></sub></td></tr>
-<tr><td align="center" width="12.5%"><img src="media/icon-scramble.webp" width="88" alt="رتّب الحروف" title="رتّب الحروف"><br><sub><b>رتّب الحروف</b></sub></td><td align="center" width="12.5%"><img src="media/icon-chairs.webp" width="88" alt="الكراسي الموسيقية" title="الكراسي الموسيقية"><br><sub><b>الكراسي الموسيقية</b></sub></td><td align="center" width="12.5%"><img src="media/icon-minority.webp" width="88" alt="عكس الأغلبية" title="عكس الأغلبية"><br><sub><b>عكس الأغلبية</b></sub></td><td align="center" width="12.5%"><img src="media/icon-hidden.webp" width="88" alt="وش المخفي؟" title="وش المخفي؟"><br><sub><b>وش المخفي؟</b></sub></td><td align="center" width="12.5%"><img src="media/icon-arena.webp" width="88" alt="ساحة القتال" title="ساحة القتال"><br><sub><b>ساحة القتال</b></sub></td><td align="center" width="12.5%"><img src="media/icon-fortress.webp" width="88" alt="حصن الصمود" title="حصن الصمود"><br><sub><b>حصن الصمود</b></sub></td><td align="center" width="12.5%"><img src="media/icon-throne.webp" width="88" alt="عرش أكبر داعم" title="عرش أكبر داعم"><br><sub><b>عرش أكبر داعم</b></sub></td><td align="center" width="12.5%"><img src="media/icon-tug.webp" width="88" alt="حرب الفريقين" title="حرب الفريقين"><br><sub><b>حرب الفريقين</b></sub></td></tr>
+<tr>
+<td align="center" width="16.66%"><img src="media/icon-camel.webp" width="96" alt="سباق الهجن" title="سباق الهجن"><br><sub><b>سباق الهجن</b></sub></td>
+<td align="center" width="16.66%"><img src="media/icon-glassbridge.webp" width="96" alt="الجسر الزجاجي" title="الجسر الزجاجي"><br><sub><b>الجسر الزجاجي</b></sub></td>
+<td align="center" width="16.66%"><img src="media/icon-silence.webp" width="96" alt="مدينة الصمت" title="مدينة الصمت"><br><sub><b>مدينة الصمت</b></sub></td>
+<td align="center" width="16.66%"><img src="media/icon-tayeh.webp" width="96" alt="طيّحه!" title="طيّحه!"><br><sub><b>طيّحه!</b></sub></td>
+<td align="center" width="16.66%"><img src="media/icon-legends.webp" width="96" alt="حلبة الأساطير" title="حلبة الأساطير"><br><sub><b>حلبة الأساطير</b></sub></td>
+<td align="center" width="16.66%"><img src="media/icon-boss.webp" width="96" alt="زعيم البث" title="زعيم البث"><br><sub><b>زعيم البث</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="media/icon-quiz.webp" width="96" alt="سؤال وجواب" title="سؤال وجواب"><br><sub><b>سؤال وجواب</b></sub></td>
+<td align="center"><img src="media/icon-bomb.webp" width="96" alt="القنبلة" title="القنبلة"><br><sub><b>القنبلة</b></sub></td>
+<td align="center"><img src="media/icon-race.webp" width="96" alt="سباق المتابعين" title="سباق المتابعين"><br><sub><b>سباق المتابعين</b></sub></td>
+<td align="center"><img src="media/icon-letters.webp" width="96" alt="حروف" title="حروف"><br><sub><b>حروف</b></sub></td>
+<td align="center"><img src="media/icon-scramble.webp" width="96" alt="رتّب الحروف" title="رتّب الحروف"><br><sub><b>رتّب الحروف</b></sub></td>
+<td align="center"><img src="media/icon-chairs.webp" width="96" alt="الكراسي الموسيقية" title="الكراسي الموسيقية"><br><sub><b>الكراسي الموسيقية</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="media/icon-minority.webp" width="96" alt="عكس الأغلبية" title="عكس الأغلبية"><br><sub><b>عكس الأغلبية</b></sub></td>
+<td align="center"><img src="media/icon-hidden.webp" width="96" alt="وش المخفي؟" title="وش المخفي؟"><br><sub><b>وش المخفي؟</b></sub></td>
+<td align="center"><img src="media/icon-arena.webp" width="96" alt="ساحة القتال" title="ساحة القتال"><br><sub><b>ساحة القتال</b></sub></td>
+<td align="center"><img src="media/icon-fortress.webp" width="96" alt="حصن الصمود" title="حصن الصمود"><br><sub><b>حصن الصمود</b></sub></td>
+<td align="center"><img src="media/icon-throne.webp" width="96" alt="عرش أكبر داعم" title="عرش أكبر داعم"><br><sub><b>عرش أكبر داعم</b></sub></td>
+<td align="center"><img src="media/icon-tug.webp" width="96" alt="حرب الفريقين" title="حرب الفريقين"><br><sub><b>حرب الفريقين</b></sub></td>
+</tr>
 </table>
 
 <details>
-<summary><b>📜 كل الألعاب (16 لعبة) — اضغط هنا</b></summary>
+<summary><b>📜 كل الألعاب (18 لعبة) — اضغط هنا</b></summary>
 
 | | اللعبة | الفكرة | الباقة |
 |:-:|---|---|:-:|
+| 🐪 | **سباق الهجن** | بطولة هجن واقعية: أشواط ونهائي، والبطل ياخذ التاج والسيف | 👑 |
+| 🌉 | **الجسر الزجاجي** | روبلوكس: اعبر الجسر، زجاجة تتحمّل وزجاجة تنكسر | ⚔️ |
 | 🌑 | **مدينة الصمت** | رعب واقعي في حي مهجور، والمشاهدين هم اللي يخوفونك | 👑 |
+| 🌊 | **طيّحه!** | منصة فوق البحر، دز الكل وآخر واحد واقف ياخذ التاج | 👑 |
+| ⚔️ | **حلبة الأساطير** | معركة 3D، وآخر فارس يجلس على العرش | 👑 |
+| 👹 | **زعيم البث** | كل المتابعين ضد وحش 3D عملاق | 👑 |
 | ❓ | **سؤال وجواب** | اكتب رقم الجواب، والأسرع ياخذ نقاط أكثر | 🆓 |
 | 💣 | **القنبلة** | القنبلة تتنقل بينكم، مرّرها قبل ما تنفجر | 🆓 |
 | 🏁 | **سباق المتابعين** | اللايكات والهدايا تسرّعك للخط | 🆓 |
@@ -124,15 +173,36 @@
 | 🪑 | **الكراسي الموسيقية** | توقف الموسيقى؟ اكتب رقم الكرسي بسرعة | ⚔️ |
 | 🧠 | **عكس الأغلبية** | اللي مع الأغلبية يطيحون | ⚔️ |
 | 🔍 | **وش المخفي؟** | بزل: الصورة تكتمل مربع مربع | ⚔️ |
-| ⚔️ | **ساحة القتال** | آخر واحد يبقى بالساحة هو البطل | ⚔️ |
+| 🗡️ | **ساحة القتال** | آخر واحد يبقى بالساحة هو البطل | ⚔️ |
 | 🏰 | **حصن الصمود** | احموا الحصن، أو خرّبوه! | ⚔️ |
 | 👑 | **عرش أكبر داعم** | الملك يحكم لين أحد يطيّحه بهدية أكبر | ⚔️ |
 | 🪢 | **حرب الفريقين** | الهدايا واللايكات تسحب الحبل | ⚔️ |
-| 👹 | **زعيم البث** | كل المتابعين ضد وحش 3D عملاق | 👑 |
-| ⚔️ | **حلبة الأساطير** | معركة 3D، وآخر فارس يجلس على العرش | 👑 |
-| 🌊 | **طيّحه!** | منصة فوق البحر، دز الكل وآخر واحد واقف ياخذ التاج | 👑 |
 
 🆓 مجانية · ⚔️ فارس البث · 👑 أسطورة البث
+</details>
+
+<a name="overlays"></a>
+
+### 👑 العروض للبث <sub>— بشكل «المجلس الملكي»</sub>
+
+<img src="media/overlays-1.jpg" width="100%" alt="العروض فوق البث: داعم اللحظة، أكبر الداعمين، وعدّادات البث" title="كل قطعة لحالها وتحطها وين ما تبي على البث">
+
+<table>
+<tr>
+<td width="50%" valign="top">🎨 <b>6 ثيمات و6 تصاميم</b><br><sub>ذهبي ملكي، ياقوتي، أزرق، زمردي، بنفسجي، فاتح. وكل عرض شفاف تحطه وين ما تبي</sub></td>
+<td width="50%" valign="top">🎬 <b>مشاهد تحمّس</b><br><sub>«تتويج الملك» بتاج مجسّم، «مشهد الشرف» للهدايا الكبيرة، و«كنز الهدف» في شريط الهدف</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top">🔗 <b>روابط أونلاين ثابتة</b><br><sub>تلصق الرابط مرة وحدة في OBS أو LIVE Studio، ويشتغل حتى من جهاز ثاني</sub></td>
+<td width="50%" valign="top">🧪 <b>زر «جرّب»</b><br><sub>تشوف التتويج والتنبيهات في المعاينة قبل ما تطلع على البث</sub></td>
+</tr>
+</table>
+
+<details>
+<summary><b>🪙 الأيقونات الذهبية وإطارات المستويات — اضغط هنا</b></summary>
+
+<img src="media/overlays-2.jpg" width="100%" alt="12 أيقونة ذهبية وإطارات المستويات" title="أيقونات وإطارات مرسومة من جديد للعروض">
+
 </details>
 
 <a name="plans"></a>
@@ -156,8 +226,8 @@
 | | ألعاب البث | الألعاب الضخمة |
 |---|---|---|
 | **النظام** | ويندوز 10 أو 11 (64-bit) | ويندوز 10 أو 11 (64-bit) |
-| **كرت الشاشة** | أي كرت يشغّل البث | يدعم DirectX 12 (مدينة الصمت وطيّحه!) |
-| **المساحة** | حجم البرنامج بس | مدينة الصمت تاخذ حوالي 2.6 جيجا |
+| **كرت الشاشة** | أي كرت يشغّل البث | يدعم DirectX 12 (سباق الهجن ومدينة الصمت وطيّحه!) |
+| **المساحة** | حجم البرنامج بس | كل لعبة تتحمّل لحالها من داخل البرنامج (سباق الهجن حوالي 2.1 جيجا، ومدينة الصمت حوالي 2.6 جيجا) |
 | **النت** | نت البث العادي | نت سريع للتحميل أول مرة |
 
 <a name="faq"></a>
@@ -170,12 +240,23 @@
 **TikTok LIVE Studio**
 1. افتح اللعبة من البرنامج.
 2. في LIVE Studio اضغط «إضافة مصدر» واختار «التقاط نافذة».
-3. اختار نافذة اللعبة (اسمها يبدأ بـ «M7 Live»).
+3. اختار نافذة اللعبة (اسمها يبدأ بـ «M7»).
 
 **OBS**
 - أضف **Browser Source** وحط فيه رابط اللعبة اللي يطلع لك في البرنامج، أو أضف **Window Capture** للنافذة.
 
 > ⌨️ **F11** أو ضغطتين بالماوس على اللعبة = شاشة كاملة، و**Esc** يرجعها.
+</details>
+
+<details>
+<summary><b>🐪 كيف أشغّل سباق الهجن؟</b></summary>
+
+1. لازم تكون مشترك في **أسطورة البث**.
+2. افتح «سباق الهجن» من البرنامج واضغط تحميل (مرة وحدة بس، وبعدها تتحدث لحالها).
+3. من **إعدادات اللعبة** اختار عدد الأشواط ومسافة المضمار ووقت التسجيل والجودة.
+4. شغّل اللعبة وصوّر نافذتها في LIVE Studio أو OBS. المتابعين يسجّلون بكلمة «هجن» أو بأي هدية.
+
+> 📋 لو أحد سألك هو في أي شوط، اضغط زر «قائمة الشوط» في البرنامج وتطلع أسماء اللي يركضون الحين.
 </details>
 
 <details>
@@ -209,7 +290,7 @@
 
 أغلب الألعاب خفيفة وتشتغل داخل البرنامج، ويكفيها أي جهاز فيه ويندوز 10 أو 11 ويشغّل البث.
 
-الألعاب الضخمة (**مدينة الصمت** و**طيّحه!** و**حلبة الأساطير**) تنفتح في نافذة لحالها وتتحمل مرة وحدة من داخل البرنامج، و**مدينة الصمت** و**طيّحه!** تحتاج كرت شاشة يدعم DirectX 12.
+الألعاب الضخمة (**سباق الهجن** و**مدينة الصمت** و**طيّحه!** و**حلبة الأساطير**) تنفتح في نافذة لحالها وتتحمل مرة وحدة من داخل البرنامج، وكلها إلا حلبة الأساطير تحتاج كرت شاشة يدعم DirectX 12. ولو البث يقطّع، نزّل الجودة من إعدادات اللعبة.
 </details>
 
 <details>
@@ -239,7 +320,7 @@
 <details>
 <summary><sub>الحقوق والمجسمات</sub></summary>
 
-<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأصوات: Kenney وOpenGameArt (CC0) · هتاف الجمهور: Gregor Quendel (CC BY 4.0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · محرك طيّحه! ومدينة الصمت: Unreal Engine · عالم مدينة الصمت: مجسمات وخامات Poly Haven (CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
+<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأصوات: Kenney وOpenGameArt (CC0) · هتاف الجمهور: Gregor Quendel (CC BY 4.0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · محرك طيّحه! ومدينة الصمت وسباق الهجن: Unreal Engine · عالم مدينة الصمت: مجسمات وخامات Poly Haven (CC0) · سباق الهجن: النخل Barsh والخيمة omarme37 (CC BY 4.0)، الصحراء والصخور Poly Haven (CC0) وQuixel Megascans، السيارات Switchboard Studios، الملّاك Albedewi (Fab)، صوت البوري 15HPanska_Ruttner_Jan (CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
 </details>
 
 </div>

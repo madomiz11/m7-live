@@ -8,7 +8,7 @@
 
 [![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok)
 
-<img src="media/stats.webp" width="100%" alt="18 لعبة تفاعلية، و4 ألعاب ضخمة مستقلة، و4 خطوات لتبدأ بثك، وتحكّم كامل بكل هدية" title="M7 Live بالأرقام">
+<img src="media/stats.webp" width="100%" alt="20 لعبة تفاعلية، و6 ألعاب ضخمة مستقلة، و4 خطوات لتبدأ بثك، وتحكّم كامل بكل هدية" title="M7 Live بالأرقام">
 
 <b><a href="#what">🎯 ما هو</a> &nbsp;•&nbsp; <a href="#new">🔥 الجديد</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#overlays">👑 العروض</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
 
@@ -39,10 +39,52 @@
 
 ### 🔥 الجديد
 
-<a href="#download"><img src="media/card-camel.webp" width="100%" alt="سباق الهجن" title="🐪 سباق الهجن — بطولة هجن واقعية: لكل متابع هجين، وأشواط ونهائي، والبطل يُتوَّج (👑 أسطورة البث)"></a>
+<a href="#download"><img src="media/card-livewar.webp" width="100%" alt="حرب الأساطير" title="⚔️ حرب الأساطير — جيشان ضخمان، وكل هدية تُنزل جنودًا لفريقها (🔒 حصرية)"></a>
 
 <details open>
-<summary><b>🆕 سباق الهجن — بطولة هجن حقيقية في بثّك</b></summary>
+<summary><b>🆕 حرب الأساطير — معركة جيشين بهدايا متابعيك 🔒</b></summary>
+
+<table>
+<tr>
+<td width="50%"><img src="media/livewar-1.jpg" width="100%" alt="فرسان الجيش" title="فرسان بدروع ورايات يتقدّمون في الصفوف"><br><b>🛡️ فرسان بدروع حقيقية</b><br><sub>مقاتلون بالسيوف والدروع يتقدّمون نحو الجيش الآخر</sub></td>
+<td width="50%"><img src="media/livewar-2.jpg" width="100%" alt="أسماء الداعمين" title="الجيش الأحمر والجيش الأزرق، واسم كل داعم فوق جنوده"><br><b>🏷️ اسمك فوق جنودك</b><br><sub>كل داعم يرى اسمه فوق الجنود الذين أنزلهم، وأكبر الداعمين يصيرون قادة الجيش</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="media/livewar-3.jpg" width="100%" alt="التنانين" title="تنانين تطير فوق ساحة المعركة"><br><b>🐉 تنانين وسحرة</b><br><sub>الهدايا الكبيرة تُنزل تنانين ووحوشًا وسحرة ودبابات</sub></td>
+<td width="50%"><img src="media/livewar-4.jpg" width="100%" alt="نار التنين" title="تنين ينفث النار على الجيش الآخر"><br><b>🔥 نار التنين</b><br><sub>التنين يحرق صفوف العدو، والنتيجة تتغير في لحظة</sub></td>
+</tr>
+</table>
+
+> 🔒 **لعبة حصرية:** لا تظهر لكل المشتركين، بل تُفتح لمن نختاره. لتطلبها، اضغط زر الاشتراك في أعلى البرنامج وتواصل معنا.
+>
+> ⚔️ **جيشان وأحد عشر نوعًا من الجنود:** كل هدية تُنزل جنودًا لفريقها: مقاتلين بالسيوف، ورماة، وقنّاصين، ودبابات، ووحوشًا، وتنانين، وسحرة. وأنت تختار ما تفعله كل هدية.
+
+</details>
+
+<a href="#download"><img src="media/card-goldenstairs.webp" width="100%" alt="الدرج الذهبي" title="🪜 الدرج الذهبي — اصعد إلى العرش، والمتابعون بين من يرفعك ومن يُسقطك (⚔️ فارس البث)"></a>
+
+<details open>
+<summary><b>🆕 الدرج الذهبي — اصعد إلى التاج، والمتابعون يقررون</b></summary>
+
+<table>
+<tr>
+<td width="50%"><img src="media/goldenstairs-1.jpg" width="100%" alt="البالونات" title="بالونات ملوّنة ترفع اللاعب فوق الدرج"><br><b>🎈 بالونات ترفعك</b><br><sub>هدية واحدة تطيّرك درجات إلى الأعلى</sub></td>
+<td width="50%"><img src="media/goldenstairs-2.jpg" width="100%" alt="الصاروخ" title="صاروخ ذهبي يدفع اللاعب إلى الأعلى"><br><b>🚀 صاروخ على ظهرك</b><br><sub>يدفعك بسرعة نحو القمة</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="media/goldenstairs-3.jpg" width="100%" alt="السيارة الطائرة" title="سيارة فوق غيمة تحمل اللاعب"><br><b>🚕 سيارة طائرة</b><br><sub>تحملك فوق غيمة إلى الأعلى</sub></td>
+<td width="50%"><img src="media/goldenstairs-4.jpg" width="100%" alt="البساط الطائر" title="اللاعب فوق البساط الطائر"><br><b>🧞 البساط الطائر</b><br><sub>يطير بك فوق الدرجات</sub></td>
+</tr>
+</table>
+
+> 🍌 **وبعض المتابعين ضدك:** قشر الموز والقنابل والكرات الحديدية وموجة الماء تُسقطك إلى الأسفل. فيها 28 أداة، وثلاثون ثيمًا لدول، ومنافسة بين نقاط الفوز والخسارة.
+
+</details>
+
+<a href="#download"><img src="media/card-camel.webp" width="100%" alt="سباق الهجن" title="🐪 سباق الهجن — بطولة هجن واقعية: لكل متابع هجين، وأشواط ونهائي، والبطل يُتوَّج (👑 أسطورة البث)"></a>
+
+<details>
+<summary><b>🐪 سباق الهجن — بطولة هجن حقيقية في بثّك</b></summary>
 
 <table>
 <tr>
@@ -129,36 +171,42 @@
 
 <table>
 <tr>
-<td align="center" width="16.66%"><img src="media/icon-camel.webp" width="96" alt="سباق الهجن" title="سباق الهجن"><br><sub><b>سباق الهجن</b></sub></td>
-<td align="center" width="16.66%"><img src="media/icon-glassbridge.webp" width="96" alt="الجسر الزجاجي" title="الجسر الزجاجي"><br><sub><b>الجسر الزجاجي</b></sub></td>
-<td align="center" width="16.66%"><img src="media/icon-silence.webp" width="96" alt="مدينة الصمت" title="مدينة الصمت"><br><sub><b>مدينة الصمت</b></sub></td>
-<td align="center" width="16.66%"><img src="media/icon-tayeh.webp" width="96" alt="طيّحه!" title="طيّحه!"><br><sub><b>طيّحه!</b></sub></td>
-<td align="center" width="16.66%"><img src="media/icon-legends.webp" width="96" alt="حلبة الأساطير" title="حلبة الأساطير"><br><sub><b>حلبة الأساطير</b></sub></td>
-<td align="center" width="16.66%"><img src="media/icon-boss.webp" width="96" alt="زعيم البث" title="زعيم البث"><br><sub><b>زعيم البث</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-livewar.webp" width="96" alt="حرب الأساطير" title="حرب الأساطير"><br><sub><b>حرب الأساطير</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-goldenstairs.webp" width="96" alt="الدرج الذهبي" title="الدرج الذهبي"><br><sub><b>الدرج الذهبي</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-camel.webp" width="96" alt="سباق الهجن" title="سباق الهجن"><br><sub><b>سباق الهجن</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-glassbridge.webp" width="96" alt="الجسر الزجاجي" title="الجسر الزجاجي"><br><sub><b>الجسر الزجاجي</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-silence.webp" width="96" alt="مدينة الصمت" title="مدينة الصمت"><br><sub><b>مدينة الصمت</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="media/icon-quiz.webp" width="96" alt="سؤال وجواب" title="سؤال وجواب"><br><sub><b>سؤال وجواب</b></sub></td>
-<td align="center"><img src="media/icon-bomb.webp" width="96" alt="القنبلة" title="القنبلة"><br><sub><b>القنبلة</b></sub></td>
-<td align="center"><img src="media/icon-race.webp" width="96" alt="سباق المتابعين" title="سباق المتابعين"><br><sub><b>سباق المتابعين</b></sub></td>
-<td align="center"><img src="media/icon-letters.webp" width="96" alt="حروف" title="حروف"><br><sub><b>حروف</b></sub></td>
-<td align="center"><img src="media/icon-scramble.webp" width="96" alt="رتّب الحروف" title="رتّب الحروف"><br><sub><b>رتّب الحروف</b></sub></td>
-<td align="center"><img src="media/icon-chairs.webp" width="96" alt="الكراسي الموسيقية" title="الكراسي الموسيقية"><br><sub><b>الكراسي الموسيقية</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-tayeh.webp" width="96" alt="طيّحه!" title="طيّحه!"><br><sub><b>طيّحه!</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-legends.webp" width="96" alt="حلبة الأساطير" title="حلبة الأساطير"><br><sub><b>حلبة الأساطير</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-boss.webp" width="96" alt="زعيم البث" title="زعيم البث"><br><sub><b>زعيم البث</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-quiz.webp" width="96" alt="سؤال وجواب" title="سؤال وجواب"><br><sub><b>سؤال وجواب</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-bomb.webp" width="96" alt="القنبلة" title="القنبلة"><br><sub><b>القنبلة</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="media/icon-minority.webp" width="96" alt="عكس الأغلبية" title="عكس الأغلبية"><br><sub><b>عكس الأغلبية</b></sub></td>
-<td align="center"><img src="media/icon-hidden.webp" width="96" alt="وش المخفي؟" title="وش المخفي؟"><br><sub><b>وش المخفي؟</b></sub></td>
-<td align="center"><img src="media/icon-arena.webp" width="96" alt="ساحة القتال" title="ساحة القتال"><br><sub><b>ساحة القتال</b></sub></td>
-<td align="center"><img src="media/icon-fortress.webp" width="96" alt="حصن الصمود" title="حصن الصمود"><br><sub><b>حصن الصمود</b></sub></td>
-<td align="center"><img src="media/icon-throne.webp" width="96" alt="عرش أكبر داعم" title="عرش أكبر داعم"><br><sub><b>عرش أكبر داعم</b></sub></td>
-<td align="center"><img src="media/icon-tug.webp" width="96" alt="حرب الفريقين" title="حرب الفريقين"><br><sub><b>حرب الفريقين</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-race.webp" width="96" alt="سباق المتابعين" title="سباق المتابعين"><br><sub><b>سباق المتابعين</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-letters.webp" width="96" alt="حروف" title="حروف"><br><sub><b>حروف</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-scramble.webp" width="96" alt="رتّب الحروف" title="رتّب الحروف"><br><sub><b>رتّب الحروف</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-chairs.webp" width="96" alt="الكراسي الموسيقية" title="الكراسي الموسيقية"><br><sub><b>الكراسي الموسيقية</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-minority.webp" width="96" alt="عكس الأغلبية" title="عكس الأغلبية"><br><sub><b>عكس الأغلبية</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="media/icon-hidden.webp" width="96" alt="وش المخفي؟" title="وش المخفي؟"><br><sub><b>وش المخفي؟</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-arena.webp" width="96" alt="ساحة القتال" title="ساحة القتال"><br><sub><b>ساحة القتال</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-fortress.webp" width="96" alt="حصن الصمود" title="حصن الصمود"><br><sub><b>حصن الصمود</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-throne.webp" width="96" alt="عرش أكبر داعم" title="عرش أكبر داعم"><br><sub><b>عرش أكبر داعم</b></sub></td>
+<td align="center" width="20%"><img src="media/icon-tug.webp" width="96" alt="حرب الفريقين" title="حرب الفريقين"><br><sub><b>حرب الفريقين</b></sub></td>
 </tr>
 </table>
 
 <details>
-<summary><b>📜 كل الألعاب (18 لعبة) — اضغط هنا</b></summary>
+<summary><b>📜 كل الألعاب (20 لعبة) — اضغط هنا</b></summary>
 
 | | اللعبة | الفكرة | الباقة |
 |:-:|---|---|:-:|
+| ⚔️ | **حرب الأساطير** | جيشان ضخمان، وكل هدية تُنزل جنودًا لفريقها | 🔒 |
+| 🪜 | **الدرج الذهبي** | اصعد إلى العرش، والمتابعون بين من يرفعك ومن يُسقطك | ⚔️ |
 | 🐪 | **سباق الهجن** | بطولة هجن واقعية: أشواط ونهائي، والبطل يأخذ التاج والسيف | 👑 |
 | 🌉 | **الجسر الزجاجي** | روبلوكس: اعبر الجسر، فلوح يتحمّل ولوح ينكسر | ⚔️ |
 | 🌑 | **مدينة الصمت** | رعب واقعي في حيّ مهجور، والمشاهدون هم من يخيفونك | 👑 |
@@ -178,7 +226,7 @@
 | 👑 | **عرش أكبر داعم** | الملك يحكم حتى يُسقطه أحد بهدية أكبر | ⚔️ |
 | 🪢 | **حرب الفريقين** | الهدايا واللايكات تسحب الحبل | ⚔️ |
 
-🆓 مجانية · ⚔️ فارس البث · 👑 أسطورة البث
+🆓 مجانية · ⚔️ فارس البث · 👑 أسطورة البث · 🔒 حصرية (تُفتح لمن نختاره)
 
 > 📖 داخل البرنامج: مرّر الفأرة على أي لعبة واضغط «تعليمات» لتقرأ شرحها وطريقة المشاركة فيها.
 </details>

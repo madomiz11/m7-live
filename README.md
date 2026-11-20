@@ -1,16 +1,18 @@
 <div align="center">
 
-<a href="https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe"><img src="media/hero.webp" width="100%" alt="M7 Live — ألعاب 3D تفاعلية لبث تيك توك" title="M7 Live — ألعاب 3D تفاعلية لبثّك في تيك توك لايف"></a>
+<a href="README.md"><img src="media/lang-ar-on.webp" width="200" alt="العربية" title="أنت على الصفحة العربية"></a>&nbsp;&nbsp;<a href="README.en.md"><img src="media/lang-en-off.webp" width="200" alt="English" title="Read this page in English"></a>
+
+<a href="https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe"><img src="media/hero.webp" width="100%" alt="M7 Live — ألعاب 3D تفاعلية لبث تيك توك وكيك" title="M7 Live — ألعاب 3D تفاعلية لبثّك في تيك توك وكيك، بالعربي والإنجليزي"></a>
 
 <a href="https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe"><img src="media/download.webp" width="380" alt="حمّل M7 Live" title="اضغط ليبدأ تحميل آخر نسخة مباشرة (ويندوز 10 و 11)"></a>
 
 <sub>⬇️ <b>تحميل مباشر</b> لآخر نسخة &nbsp;•&nbsp; ويندوز 10 و 11 (64-bit) &nbsp;•&nbsp; يتحدّث البرنامج تلقائيًا بعد ذلك</sub>
 
-[![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok)
+[![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok) ![Kick](https://img.shields.io/badge/KICK-LIVE-53FC18?style=for-the-badge&logo=kick&logoColor=black) ![Languages](https://img.shields.io/badge/LANG-AR%20%7C%20EN-ffcf5c?style=for-the-badge)
 
-<img src="media/stats.webp" width="100%" alt="20 لعبة تفاعلية، و6 ألعاب ضخمة مستقلة، و4 خطوات لتبدأ بثك، وتحكّم كامل بكل هدية" title="M7 Live بالأرقام">
+<img src="media/stats.webp" width="100%" alt="20 لعبة تفاعلية، و103 تركيبة للبث، ومنصتان (تيك توك وكيك)، ولغتان (عربي و English)" title="M7 Live بالأرقام">
 
-<b><a href="#what">🎯 ما هو</a> &nbsp;•&nbsp; <a href="#new">🔥 الجديد</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#overlays">👑 العروض</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
+<b><a href="#what">🎯 ما هو</a> &nbsp;•&nbsp; <a href="#new">🔥 الجديد</a> &nbsp;•&nbsp; <a href="#tarakib">🎨 التراكيب</a> &nbsp;•&nbsp; <a href="#lang">🌐 اللغتان</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
 
 </div>
 
@@ -35,9 +37,51 @@
 
 <a name="new"></a>
 
+<img src="media/title-new.webp" width="100%" alt="الجديد في 2.28">
+
+<a name="tarakib"></a>
+
+### 🎨 «التراكيب» — 103 أشكال في خمسة أقسام
+
+<img src="media/tarakib.webp" width="100%" alt="أربعة أشكال حقيقية من التراكيب تتحرك مع الدعم: ملوك الدعم، والأكثر إعجابًا، والبطاقات الذهبية، وأكثر المتابعين تفاعلًا" title="كل تركيبة شفافة تضعها فوق بثّك، وتتحرك مع كل دعم">
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="media/tk-coins.jpg" width="100%" alt="ملوك الدعم"><br><b>🪙 ملوك الدعم</b><br><sub>30 شكلًا لأكثر الداعمين بالهدايا</sub></td>
+<td align="center" width="20%"><img src="media/tk-likes.jpg" width="100%" alt="الأكثر إعجابًا"><br><b>❤️ الأكثر إعجابًا</b><br><sub>30 شكلًا لأكثر من يرسل لايكات</sub></td>
+<td align="center" width="20%"><img src="media/tk-shares.jpg" width="100%" alt="الأكثر مشاركة"><br><b>🔗 الأكثر مشاركة</b><br><sub>30 شكلًا لأكثر من يشارك البث</sub></td>
+<td align="center" width="20%"><img src="media/tk-card.jpg" width="100%" alt="البطاقات الذهبية"><br><b>🃏 البطاقات الذهبية</b><br><sub>3 تصاميم بطاقات للداعمين أو اللايكات أو المشاركات</sub></td>
+<td align="center" width="20%"><img src="media/tk-fans.jpg" width="100%" alt="أكثر المتابعين تفاعلًا"><br><b>🏅 أكثر المتابعين تفاعلًا</b><br><sub>10 أشكال لأعلى ثلاثة بالنقاط، بإطار مستواهم</sub></td>
+</tr>
+</table>
+
+> ✨ **تختار القسم، ثم الشكل، وتنسخ الرابط** إلى OBS أو LIVE Studio. المعاينة حية بأسماء تجريبية، وزر «🎁 جرّب دعم» يريك حركة الدعم قبل البث.
+>
+> 🔢 **عدد المراكز يتغيّر مباشرة** من البرنامج، حتى والتركيبة في بثّك، بدون رابط جديد. وفي «أكثر المتابعين تفاعلًا» تختار الفترة: هذا البث، أو الأسبوع، أو الشهر، أو من البداية.
+>
+> 🖼️ كل تركيبة شفافة، والأسماء الطويلة تنتهي بـ«…» قبل الرسمة، والمتابع بلا صورة يظهر أول حرف من اسمه.
+
+<a name="lang"></a>
+
+### 🌐 العربية والإنجليزية — البرنامج والألعاب بلغتين
+
+<img src="media/lang.webp" width="100%" alt="البرنامج نفسه بالعربية ثم بالإنجليزية بضغطة على زر «ع | E»" title="زر «ع | E» في أعلى البرنامج يبدّل اللغة بحركة ناعمة">
+
+<table>
+<tr>
+<td width="33%" valign="top">🔤 <b>زر «ع | E»</b><br><sub>في أعلى البرنامج: ضغطة واحدة، والصفحة تعود باللغة الأخرى قطعة بعد قطعة، في التبويب نفسه</sub></td>
+<td width="33%" valign="top">🎮 <b>ألعاب البث بالإنجليزية</b><br><sub>13 لعبة بأسئلة وكلمات وصور إنجليزية، و«حروف» بالحروف من A إلى Z</sub></td>
+<td width="33%" valign="top">💿 <b>لغة التثبيت</b><br><sub>المثبّت يختار لغة جهازك تلقائيًا، والبرنامج يفتح بها من أول مرة</sub></td>
+</tr>
+</table>
+
+> 🙋 أسماء المتابعين وتعليقاتهم لا تُترجم أبدًا. والألعاب الضخمة ما زالت بالعربية في هذه النسخة.
+
+<a name="games"></a>
+
 <img src="media/title-games.webp" width="100%" alt="الألعاب">
 
-### 🔥 الجديد
+### 🆕 أحدث الألعاب
 
 <a href="#download"><img src="media/card-livewar.webp" width="100%" alt="حرب الأساطير" title="⚔️ حرب الأساطير — جيشان ضخمان، وكل هدية تُنزل جنودًا لفريقها (🔒 حصرية)"></a>
 
@@ -124,8 +168,6 @@
 > 🔒 عندما تربطها ببثّك تنتقل إلى غرفة خاصة بك، فلا يدخل أحد ليخرّب. تحتاج حساب روبلوكس على جهازك.
 
 </details>
-
-<a name="games"></a>
 
 ### 👑 الألعاب الضخمة <sub>— تعمل كبرنامج مستقل</sub>
 
@@ -231,34 +273,6 @@
 > 📖 داخل البرنامج: مرّر الفأرة على أي لعبة واضغط «تعليمات» لتقرأ شرحها وطريقة المشاركة فيها.
 </details>
 
-<a name="overlays"></a>
-
-### 👑 العروض للبث <sub>— «المجلس الملكي» و26 شكلًا للإطار</sub>
-
-<img src="media/overlays-1.jpg" width="100%" alt="العروض فوق البث: داعم اللحظة، وأكبر الداعمين، وعدّادات البث" title="كل قطعة مستقلة، وتضعها حيث تشاء في البث">
-
-<table>
-<tr>
-<td width="50%" valign="top">🎨 <b>6 ثيمات و6 تصاميم</b><br><sub>ذهبي ملكي، وياقوتي، وأزرق، وزمردي، وبنفسجي، وفاتح. وكل عرض شفاف تضعه حيث تشاء</sub></td>
-<td width="50%" valign="top">🎬 <b>مشاهد حماسية</b><br><sub>«تتويج الملك» بتاج مجسّم، و«مشهد الشرف» للهدايا الكبيرة، و«كنز الهدف» في شريط الهدف</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top">🔗 <b>روابط أونلاين ثابتة</b><br><sub>تشغّلها من الإعدادات، ثم تلصق الرابط مرة واحدة في OBS أو LIVE Studio، ويعمل حتى من جهاز آخر</sub></td>
-<td width="50%" valign="top">🧪 <b>زر «جرّب»</b><br><sub>تشاهد التتويج والتنبيهات في المعاينة قبل أن تظهر في البث</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top">🖼️ <b>26 شكلًا للإطار</b><br><sub>إطار للصورة وإطار للاسم بحركة متصلة: هادئة، وأسطورية، وحماسية. والمؤثرات لا تغطي وجه الداعم أبدًا</sub></td>
-<td width="50%" valign="top">🧭 <b>اختيار واضح</b><br><sub>الأشكال في ثلاث مجموعات، وفوقها بطاقة تشرح حركة الشكل المختار، والمعاينة تتغير فورًا</sub></td>
-</tr>
-</table>
-
-<details>
-<summary><b>🪙 الأيقونات الذهبية وإطارات المستويات — اضغط هنا</b></summary>
-
-<img src="media/overlays-2.jpg" width="100%" alt="12 أيقونة ذهبية وإطارات المستويات" title="أيقونات وإطارات رُسمت من جديد للعروض">
-
-</details>
-
 <a name="plans"></a>
 
 <img src="media/title-plans.webp" width="100%" alt="الباقات">
@@ -271,7 +285,7 @@
 
 <img src="media/title-features.webp" width="100%" alt="مميزات البرنامج">
 
-<img src="media/features.webp" width="100%" alt="المميزات: تحكّم كامل بالهدايا، ونقاط ومستويات، وعروض للبث، ومتجر النقاط والأصوات، وجهاز ثانٍ، وتحديث تلقائي" title="كل ما تحتاجه لبث تفاعلي في برنامج واحد">
+<img src="media/features.webp" width="100%" alt="المميزات: تحكّم كامل بالهدايا، ونقاط ومستويات، والتراكيب، وسهل وآمن، وجهاز ثانٍ، وعربي و English" title="كل ما تحتاجه لبث تفاعلي في برنامج واحد">
 
 <a name="req"></a>
 
@@ -358,6 +372,22 @@
 </details>
 
 <details>
+<summary><b>🎨 كيف أضع تركيبة في البث؟</b></summary>
+
+1. افتح تبويب **«التراكيب»** واختر القسم، ثم الشكل.
+2. اضغط **«📋 نسخ الرابط»**.
+3. في LIVE Studio أضف مصدر **«رابط (Link)»**، وفي OBS أضف **Browser Source** بالمقاس المكتوب تحت الرابط، والصق الرابط.
+
+> تبدأ التركيبة فارغة وتمتلئ مع الدعم في البث. وإذا غيّرت «عدد المراكز» في البرنامج تتغيّر في البث مباشرة.
+</details>
+
+<details>
+<summary><b>🌐 كيف أغيّر لغة البرنامج؟</b></summary>
+
+اضغط زر **«ع | E»** في أعلى البرنامج، أو اختر اللغة من **الإعدادات**. والمثبّت يسألك عن اللغة أول مرة، ويختار لغة جهازك تلقائيًا.
+</details>
+
+<details>
 <summary><b>🔄 كيف أحدّث البرنامج؟</b></summary>
 
 يتحدّث البرنامج تلقائيًا. عندما تصدر نسخة جديدة يظهر لك تنبيه داخله، فاضغط «حدّث» وانتهى الأمر.
@@ -374,7 +404,8 @@
 <details>
 <summary><sub>الحقوق والمجسمات</sub></summary>
 
-<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 وTim0 وanthonyvanoo · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأصوات: Kenney وOpenGameArt (CC0) · هتاف الجمهور: Gregor Quendel (CC BY 4.0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · محرك طيّحه! ومدينة الصمت وسباق الهجن: Unreal Engine · عالم مدينة الصمت: مجسمات وخامات Poly Haven (CC0) · سباق الهجن: النخل Barsh والخيمة omarme37 (CC BY 4.0)، والصحراء والصخور Poly Haven (CC0) وQuixel Megascans، والسيارات Switchboard Studios، والملّاك Albedewi (Fab)، وصوت البوري 15HPanska_Ruttner_Jan (CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات ورسومات العروض: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
+<sub>الشخصيات Nick وTani وMiss T (Chibi) من تصميم vj32621 على Sketchfab — CC BY 4.0 · الفارس Kondrashov · الوحوش LasquetiSpice وPhons وBatuhan13 وTim0 وanthonyvanoo · العرش huilling_ng · القنبلة Anshinowara2 · القلعة afun1996 · الكأس Esther3d · المنصة Maks_Art22 · الأكل XOIAL · الحيوانات ranaaunhaider12 وpolyone · السيارات rgsdev · الجمل omarme37 · الدلة CGDELUXE · النباتات gostbento · فارس الأساطير plankusgankus · حلبة الحمم 123umar123 — CC BY 4.0 · التاج الملكي (WirtualneMuzeaMalopolski، CC0) · الأصوات: Kenney وOpenGameArt (CC0) · هتاف الجمهور: Gregor Quendel (CC BY 4.0) · محرك 3D: three.js (MIT) · محرك حلبة الأساطير: Godot Engine (MIT) · محرك طيّحه! ومدينة الصمت وسباق الهجن: Unreal Engine · عالم مدينة الصمت: مجسمات وخامات Poly Haven (CC0) · سباق الهجن: النخل Barsh والخيمة omarme37 (CC BY 4.0)، والصحراء والصخور Poly Haven (CC0) وQuixel Megascans، والسيارات Switchboard Studios، والملّاك Albedewi (Fab)، وصوت البوري 15HPanska_Ruttner_Jan (CC0) · الأيقونات 3D: Microsoft Fluent Emoji (MIT) · الإطارات والميداليات وقوالب التراكيب: من تصميم صاحب M7 Live · الخطوط Tajawal وLalezar وReem Kufi — SIL OFL · مكتبة tiktok-live-connector — MIT</sub>
 </details>
 
 </div>
+

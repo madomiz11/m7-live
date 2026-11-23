@@ -10,7 +10,7 @@
 
 [![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok) ![Kick](https://img.shields.io/badge/KICK-LIVE-53FC18?style=for-the-badge&logo=kick&logoColor=black) ![Languages](https://img.shields.io/badge/LANG-EN%20%7C%20AR-ffcf5c?style=for-the-badge)
 
-<img src="media/stats-en.webp" width="100%" alt="20 interactive games, 108 overlays, 2 platforms (TikTok and Kick), 2 languages (English and Arabic)" title="M7 Live in numbers">
+<img src="media/stats-en.webp" width="100%" alt="20 interactive games, 123 overlays, 2 platforms (TikTok and Kick), 2 languages (English and Arabic)" title="M7 Live in numbers">
 
 <b><a href="#what">🎯 What it is</a> &nbsp;•&nbsp; <a href="#new">🔥 New</a> &nbsp;•&nbsp; <a href="#overlays">🎨 Overlays</a> &nbsp;•&nbsp; <a href="#lang">🌐 Languages</a> &nbsp;•&nbsp; <a href="#games">🎮 Games</a> &nbsp;•&nbsp; <a href="#plans">💎 Plans</a> &nbsp;•&nbsp; <a href="#features">✨ Features</a> &nbsp;•&nbsp; <a href="#req">💻 Requirements</a> &nbsp;•&nbsp; <a href="#faq">❓ FAQ</a> &nbsp;•&nbsp; <a href="#download">⬇️ Download</a></b>
 
@@ -39,15 +39,15 @@ A Windows app that links your TikTok or Kick LIVE to **3D** games running on you
 
 <a name="overlays"></a>
 
-### 🎨 Overlays — 108 looks in six sections
+### 🎨 Overlays — 123 looks in six sections
 
 <img src="media/tarakib-en.webp" width="100%" alt="Four real overlays moving with support: Top Gifters, Top Liker, Top Card and Top Fans" title="Every overlay is transparent, sits on top of your stream and moves with every support">
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="media/tk-coins.jpg" width="100%" alt="Top Gifters"><br><b>🪙 Top Gifters</b><br><sub>30 looks for your biggest gifters</sub></td>
-<td align="center" width="33%"><img src="media/tk-likes.jpg" width="100%" alt="Top Liker"><br><b>❤️ Top Liker</b><br><sub>30 looks for whoever sends the most likes</sub></td>
-<td align="center" width="33%"><img src="media/tk-shares.jpg" width="100%" alt="Top Share"><br><b>🔗 Top Share</b><br><sub>30 looks for whoever shares your stream the most</sub></td>
+<td align="center" width="33%"><img src="media/tk-coins.jpg" width="100%" alt="Top Gifters"><br><b>🪙 Top Gifters</b><br><sub>35 looks for your biggest gifters</sub></td>
+<td align="center" width="33%"><img src="media/tk-likes.jpg" width="100%" alt="Top Liker"><br><b>❤️ Top Liker</b><br><sub>35 looks for whoever sends the most likes</sub></td>
+<td align="center" width="33%"><img src="media/tk-shares.jpg" width="100%" alt="Top Share"><br><b>🔗 Top Share</b><br><sub>35 looks for whoever shares your stream the most</sub></td>
 </tr>
 <tr>
 <td align="center" width="33%"><img src="media/tk-card.jpg" width="100%" alt="Top Card"><br><b>🃏 Top Card</b><br><sub>3 card designs for gifts, likes or shares</sub></td>

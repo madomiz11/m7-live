@@ -10,7 +10,7 @@
 
 [![Latest](https://img.shields.io/github/v/release/madomiz11/m7-live?style=for-the-badge&label=LATEST&color=fe2c55)](https://github.com/madomiz11/m7-live/releases/latest) [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fm7-license.jjgh06665.workers.dev%2Fbadge%2Fdownloads&style=for-the-badge&label=DOWNLOADS)](https://github.com/madomiz11/m7-live/releases/latest/download/M7Live-Setup.exe) ![Windows](https://img.shields.io/badge/WINDOWS-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows) ![TikTok LIVE](https://img.shields.io/badge/TikTok-LIVE-111111?style=for-the-badge&logo=tiktok) ![Kick](https://img.shields.io/badge/KICK-LIVE-53FC18?style=for-the-badge&logo=kick&logoColor=black) ![Languages](https://img.shields.io/badge/LANG-AR%20%7C%20EN-ffcf5c?style=for-the-badge)
 
-<img src="media/stats.webp" width="100%" alt="20 لعبة تفاعلية، و108 تركيبة للبث، ومنصتان (تيك توك وكيك)، ولغتان (عربي و English)" title="M7 Live بالأرقام">
+<img src="media/stats.webp" width="100%" alt="20 لعبة تفاعلية، و123 تركيبة للبث، ومنصتان (تيك توك وكيك)، ولغتان (عربي و English)" title="M7 Live بالأرقام">
 
 <b><a href="#what">🎯 ما هو</a> &nbsp;•&nbsp; <a href="#new">🔥 الجديد</a> &nbsp;•&nbsp; <a href="#tarakib">🎨 التراكيب</a> &nbsp;•&nbsp; <a href="#lang">🌐 اللغتان</a> &nbsp;•&nbsp; <a href="#games">🎮 الألعاب</a> &nbsp;•&nbsp; <a href="#plans">💎 الباقات</a> &nbsp;•&nbsp; <a href="#features">✨ المميزات</a> &nbsp;•&nbsp; <a href="#req">💻 المتطلبات</a> &nbsp;•&nbsp; <a href="#faq">❓ الأسئلة</a> &nbsp;•&nbsp; <a href="#download">⬇️ التحميل</a></b>
 
@@ -41,15 +41,15 @@
 
 <a name="tarakib"></a>
 
-### 🎨 «التراكيب» — 108 أشكال في ستة أقسام
+### 🎨 «التراكيب» — 123 شكلًا في ستة أقسام
 
 <img src="media/tarakib.webp" width="100%" alt="أربعة أشكال حقيقية من التراكيب تتحرك مع الدعم: ملوك الدعم، والأكثر إعجابًا، والبطاقات الذهبية، وأكثر المتابعين تفاعلًا" title="كل تركيبة شفافة تضعها فوق بثّك، وتتحرك مع كل دعم">
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="media/tk-coins.jpg" width="100%" alt="ملوك الدعم"><br><b>🪙 ملوك الدعم</b><br><sub>30 شكلًا لأكثر الداعمين بالهدايا</sub></td>
-<td align="center" width="33%"><img src="media/tk-likes.jpg" width="100%" alt="الأكثر إعجابًا"><br><b>❤️ الأكثر إعجابًا</b><br><sub>30 شكلًا لأكثر من يرسل لايكات</sub></td>
-<td align="center" width="33%"><img src="media/tk-shares.jpg" width="100%" alt="الأكثر مشاركة"><br><b>🔗 الأكثر مشاركة</b><br><sub>30 شكلًا لأكثر من يشارك البث</sub></td>
+<td align="center" width="33%"><img src="media/tk-coins.jpg" width="100%" alt="ملوك الدعم"><br><b>🪙 ملوك الدعم</b><br><sub>35 شكلًا لأكثر الداعمين بالهدايا</sub></td>
+<td align="center" width="33%"><img src="media/tk-likes.jpg" width="100%" alt="الأكثر إعجابًا"><br><b>❤️ الأكثر إعجابًا</b><br><sub>35 شكلًا لأكثر من يرسل لايكات</sub></td>
+<td align="center" width="33%"><img src="media/tk-shares.jpg" width="100%" alt="الأكثر مشاركة"><br><b>🔗 الأكثر مشاركة</b><br><sub>35 شكلًا لأكثر من يشارك البث</sub></td>
 </tr>
 <tr>
 <td align="center" width="33%"><img src="media/tk-card.jpg" width="100%" alt="البطاقات الذهبية"><br><b>🃏 البطاقات الذهبية</b><br><sub>3 تصاميم بطاقات للداعمين أو اللايكات أو المشاركات</sub></td>
